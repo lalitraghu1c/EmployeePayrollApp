@@ -1,0 +1,20 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "Name": "Lalit",
+      "Gender": "M",
+      "Department": "Software",
+      "Salary": "40,000",
+      "StartDate": "02/02/2022"
+    },
+    {
+      "Name": "Siddharth",
+      "Gender": "M",
+      "Department": "Software",
+      "Salary": "40,000",
+      "StartDate": "19/02/2022",
+      "id": 2
+    }
+  ]
+}
